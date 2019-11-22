@@ -1,0 +1,21 @@
+{
+  "name": "wmic-uicollection-sample",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/wmic-uicollection-sample.umd.js",
+  "module": "fesm5/wmic-uicollection-sample.js",
+  "es2015": "fesm2015/wmic-uicollection-sample.js",
+  "esm5": "esm5/wmic-uicollection-sample.js",
+  "esm2015": "esm2015/wmic-uicollection-sample.js",
+  "fesm5": "fesm5/wmic-uicollection-sample.js",
+  "fesm2015": "fesm2015/wmic-uicollection-sample.js",
+  "typings": "wmic-uicollection-sample.d.ts",
+  "metadata": "wmic-uicollection-sample.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
